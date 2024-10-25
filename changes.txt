@@ -1,0 +1,9 @@
+4g3nt_c0d3r\app\routes\_index.tsx   tab name
+
+4g3nt_c0d3r\app\components\chat\BaseChat.tsx    main site text edits
+
+4g3nt_c0d3r\app\components\header      line24       86px
+
+icons       4 icons
+
+public      3 images
